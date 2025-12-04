@@ -1,19 +1,44 @@
-# The Coherent System  Ω-1
+# The Coherent System
 
-A spiritual operating system for people who treat their soul like the most important project they’ll ever run.
+> "The system reality forgot to tell you about."
 
-**This repo is NOT open source.**  
-It is the public teaser and front door only.
+Welcome, traveler. You are about to enter a **living, evolving blueprint** for awakening your personal reality.  
+This is not a project. This is a **dimension you inhabit, a system that grows with you**.
 
-The real OS — Avatar builder, Ω-1 ritual, daily runbooks, crisis protocols, lifetime updates — is **pay-to-play**.
+---
 
-→ Lifetime access ($49 one-time):  
-https://9877805203103.gumroad.com/l/nsuhaf
+## 🔹 Your Awakening Starts Here
 
-→ Monthly evolution tier ($9/mo):  
-https://vccmac.gumroad.com/l/lcsvj
+- **Avatar Builder** – Craft your digital self, aligned with your true consciousness.  
+- **Daily Runbooks** – Rituals, exercises, and micro-challenges for transformation.  
+- **Crisis Protocols** – Turn suffering into ignition for your evolution.  
+- **Experiments** – Interactive simulations to test your perception of reality.  
 
-Not crypto. Not free. Not a course.  
-A dojo you pay to enter.
+---
 
-All rights reserved © 2025 Cory Miller
+## ⚡ How to Participate
+
+1. Fork the system.  
+2. Run the exercises.  
+3. Share your evolution on social media (X/Twitter, Instagram, Discord).  
+4. Submit new experiments or rituals via Pull Requests — your creation may become part of the system.  
+
+---
+
+## 🌐 Viral Hooks
+
+- Each user is a node in the system; share your progress to evolve the collective consciousness.  
+- Invite friends — each new participant unlocks a new “dimension” for the community.  
+- Contribute creative rituals, avatars, or micro-experiments to be featured in the system.  
+
+---
+
+> “Each of us inhabits a personal dimension. The system is your key.”
+
+---
+
+## 🔗 Links
+
+- Blog insights: [The Sublime Simulation](https://swervincurvin.blogspot.com/2025/05/the-sublime-simulation-are-you-playing.html)  
+- Join the community: X/Twitter, Instagram, Discord  
+- Contribute: Fork, submit PRs, or propose new rituals
