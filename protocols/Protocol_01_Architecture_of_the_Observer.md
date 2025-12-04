@@ -1,4 +1,4 @@
-# Protocol 01 — The Architecture of the Observer (Teaser)
+**This is NOT open source. All rights reserved. Full version only available to paid buyers.**# Protocol 01 — The Architecture of the Observer (Teaser)
 
 > 🔒 This is a **teaser version** of Protocol 01.  
 > The full Protocol, with extended mechanics, examples, and guided exercises, is available only to paid players of The Coherent System.  
