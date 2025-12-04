@@ -1,3 +1,4 @@
+**Free teaser template only. Full workbook is paid-only.**
 # Avatar Template (Free)
 
 Your Avatar is the configured “player” inside your personal dimension.
