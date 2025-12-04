@@ -23,3 +23,10 @@ This repo gives you:
 - A free **Avatar template**
 
 The **full Game** (complete Protocols, workbook, and ongoing updates) is delivered through the paid product linked above.
+---
+
+## License
+
+Licensed under the Apache License, Version 2.0.  
+See the `LICENSE` file for details.
+
